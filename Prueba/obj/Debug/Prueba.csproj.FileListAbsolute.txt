@@ -1,0 +1,13 @@
+C:\Users\wgarc\Desktop\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\wgarc\Desktop\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Users\wgarc\Desktop\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Users\wgarc\Desktop\Prueba\Prueba\bin\Debug\EntityFramework.dll
+C:\Users\wgarc\Desktop\Prueba\Prueba\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wgarc\Desktop\Prueba\Prueba\bin\Debug\EntityFramework.xml
+C:\Users\wgarc\Desktop\Prueba\Prueba\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wgarc\Desktop\Prueba\Prueba\obj\Debug\Prueba.csprojResolveAssemblyReference.cache
+C:\Users\wgarc\Desktop\Prueba\Prueba\obj\Debug\Prueba.Properties.Resources.resources
+C:\Users\wgarc\Desktop\Prueba\Prueba\obj\Debug\Prueba.csproj.GenerateResource.Cache
+C:\Users\wgarc\Desktop\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Users\wgarc\Desktop\Prueba\Prueba\obj\Debug\Prueba.pdb
+C:\Users\wgarc\Desktop\Prueba\Prueba\obj\Debug\Prueba.Form1.resources
